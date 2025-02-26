@@ -3,7 +3,7 @@ import { BrowserRouter as Router, Routes, Route, Navigate } from 'react-router-d
 import { UserContext } from './contexts/UserContext.jsx';
 import RecipeList from './components/RecipeList/RecipeList';
 import RecipeForm from './components/RecipeForm/RecipeForm';
-import Login from './pages/Login/Login.jsx';
+import Login from './Pages/Login/Login.jsx';
 import Registration from './Pages/Registration/Registration.jsx'
 import Header from './components/Header/Header.jsx';
 
